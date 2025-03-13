@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "me.yurenju.passkeyapp",
+      "sha256_cert_fingerprints": [
+        "44:A7:D8:19:73:ED:37:6B:6C:E4:D4:DE:50:27:9B:3A:8D:F4:6D:E6:3B:37:99:91:B1:9F:58:4D:E7:61:A9:29"
+      ]
+    }
+  }
+]
